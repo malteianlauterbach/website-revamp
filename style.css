@@ -7,9 +7,7 @@ video {
 	vertical-align: baseline
 }
 
-body { background-color:blue; }
 .highlightme { background-color:#edcb53; }
-p { background-color:#FFFFFF; }
 /* latin */
 @font-face {
   font-family: 'Swanky and Moo Moo';
